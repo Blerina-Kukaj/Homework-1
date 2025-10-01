@@ -13,3 +13,5 @@
 
    ```bash
    git config --global alias.lg "log --color --graph --pretty=format:'%C(yellow)%h%C(reset) - %C(cyan)%an%C(reset) %C(green)(%ar)%C(reset) %C(white)%s%C(reset) %C(red)%d%C(reset)' --all"
+'
+   8. Tagged the cleaned-up commit on `new-branch` as `v1.0`:
